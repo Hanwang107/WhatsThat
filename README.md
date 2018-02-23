@@ -1,4 +1,4 @@
-# whats-that-Hanwang107
+# WhatsThat - iOS Development Course Project
 WhatsThat is an app that lets users discover more information about things they see.
 
 ## Features
